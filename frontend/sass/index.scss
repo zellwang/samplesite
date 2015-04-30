@@ -1,0 +1,28 @@
+@import "global";
+
+.page{
+    overflow: hidden;
+    min-width: 100%;
+    position: relative;
+}
+
+.menu{
+    position: relative;
+    width: 100%;
+    background-color: black;
+    height: 30px;
+}
+
+.toolbar{
+    position: relative;
+    width: 100%;
+    background-color: blue;
+    height: 40px;
+}
+
+.hot-content{
+    position: relative;
+    width: 100%;
+    background-color: blue;
+    height: 40px;
+}
